@@ -195,7 +195,7 @@ module.exports = {
       // Main help text
       container.addTextDisplayComponents(
         new TextDisplayBuilder().setContent(
-          `# <:emoji_42:1423037835933651045> Help Panel\n\n<:dots:1423015515026100386> **Total Commands: ${totalCommands}**\n<:dots:1423015515026100386> Serving **${servers}** servers with **${users}** members\n<:dots:1423015515026100386> **Developer:** [itsfizys](https://itsfiizys.com) | [AeroX Dev](https://discord.gg/8wfT8SfB5Z)\n<:dots:1423015515026100386> [Invite](${botInviteUrl}) | [Support Server](https://discord.gg/8wfT8SfB5Z)`
+          `# <:emoji_42:1423037835933651045> Help Panel\n\n<:dots:1423015515026100386> **Total Commands: ${totalCommands}**\n<:dots:1423015515026100386> Serving **${servers}** servers with **${users}** members\n<:dots:1423015515026100386>`
         )
       );
 
