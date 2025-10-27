@@ -183,10 +183,6 @@ module.exports = {
         "tools base64 encode",
         "tools base64 decode",
       ],
-      youtube: [
-        "youtube latestvideo",
-        "youtube info",
-      ],
     };
 
     function createMainHelpContainer() {
@@ -291,12 +287,6 @@ module.exports = {
                 emoji: "<:tools:1423012492669489222>",
                 description: "All commands related to tools",
               },
-              {
-                label: "Youtube",
-                value: "youtube",
-                emoji: "<:yt:1423012496863662273>",
-                description: "All commands related to youtube",
-              },
             ])
         )
       );
@@ -319,7 +309,6 @@ module.exports = {
         images: "Images",
         utilities: "Utilities",
         tools: "Tools",
-        youtube: "Youtube",
       };
 
       if (category === "home") {
@@ -424,12 +413,6 @@ module.exports = {
                 emoji: "<:tools:1423012492669489222>",
                 description: "All commands related to tools",
               },
-              {
-                label: "Youtube",
-                value: "youtube",
-                emoji: "<:yt:1423012496863662273>",
-                description: "All commands related to youtube",
-              },
             ])
         )
       );
@@ -464,14 +447,3 @@ module.exports = {
     });
   },
 };
-
-/*
-*/
-
-/*
-: ! Aegis !
-    + Discord: itsfizys
-    + Portfolio: https://itsfiizys.com
-    + Community: https://discord.gg/8wfT8SfB5Z  (AeroX Development )
-    + for any queries reach out Community or DM me.
-*/
