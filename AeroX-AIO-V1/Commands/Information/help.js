@@ -215,7 +215,7 @@ module.exports = {
       // Add gif
       container.addMediaGalleryComponents(
         new MediaGalleryBuilder().addItems(
-          new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/attachments/835629751745118218/1421931206873976832/standard_2.gif?ex=690066e1&is=68ff1561&hm=5b85523fb53d8c90a081563c3b64ad7f37c2050dbf78a6920820623246d10f36")
+          new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/attachments/835629751745118218/1421931206873976832/standard_2.gif?ex=68dad421&is=68d982a1&hm=ee13fb7f9c24718bb11ae7e0f073590ced0691f4d63985f7e7bee0c099214bb0&")
         )
       );
 
@@ -348,7 +348,7 @@ module.exports = {
       // Add gif
       container.addMediaGalleryComponents(
         new MediaGalleryBuilder().addItems(
-          new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/attachments/835629751745118218/1421931206873976832/standard_2.gif?ex=690066e1&is=68ff1561&hm=5b85523fb53d8c90a081563c3b64ad7f37c2050dbf78a6920820623246d10f36")
+          new MediaGalleryItemBuilder().setURL("https://cdn.discordapp.com/attachments/835629751745118218/1421931206873976832/standard_2.gif?ex=68dad421&is=68d982a1&hm=ee13fb7f9c24718bb11ae7e0f073590ced0691f4d63985f7e7bee0c099214bb0&")
         )
       );
 
